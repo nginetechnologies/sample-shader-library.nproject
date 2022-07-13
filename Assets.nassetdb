@@ -1,0 +1,2447 @@
+{
+    "00857dbb-c324-012b-62d0-3d6c04eef809": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_70.mtli.nasset"
+    },
+    "013a0cd9-ec35-c931-2431-10efa6668fea": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal02_D.tex.nasset"
+    },
+    "02950af7-a1b1-bd21-3f12-bab9dda81135": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_20.mtli.nasset"
+    },
+    "029e5351-e80c-69f9-37a3-19d00d313592": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_05.scene.nasset/SM_Shader_Ball_Metal_05.scene.nasset"
+    },
+    "03016aaf-c9f6-b3d2-a18f-d690c2fafe5d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_02.scene.nasset/M_Trim-16.mesh.nasset"
+    },
+    "039369ca-fdd9-6779-40a3-12d527b35f0b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Grey.mtli.nasset"
+    },
+    "03c8107a-a21a-c1bb-263e-1ade7a0dd207": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_01.scene.nasset/SM_Shader_Ball_Ground_01.scene.nasset"
+    },
+    "048b564d-95ad-c631-786d-949849e8ab21": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_09.scene.nasset/M_Trim-27.mesh.nasset"
+    },
+    "04ac318e-d67a-20cd-9b95-2f61682e7dea": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_03.scene.nasset/SM_Shader_Ball_Brick_03.scene.nasset"
+    },
+    "04b2a54a-f7be-9dc4-dd98-ae5b1d6e7d20": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Metal_03.mesh.nasset"
+    },
+    "04f21eec-a9e7-22be-47f7-95642c2777ab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_01.scene.nasset/M_Metal_10.mesh.nasset"
+    },
+    "056efca8-f529-3f1e-f0cc-a440f6c71ff9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_02.scene.nasset/M_Trim-15.mesh.nasset"
+    },
+    "059fd379-058b-6c5f-2c14-f3bac58196eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_01.scene.nasset/M_Trim-60.mesh.nasset"
+    },
+    "05b2675d-ea47-e9e1-246f-c08857e1391c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_04.scene.nasset/M_Ground_04.mesh.nasset"
+    },
+    "07432b41-1965-460d-aea3-67bb0c01e602": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_09.scene.nasset/M_Rough_90.mesh.nasset"
+    },
+    "07fd8020-cd27-0893-cf29-0cd79f2b43f5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_01.scene.nasset/M_Ball_Ref-32.mesh.nasset"
+    },
+    "08050bea-fedd-8ada-7318-0af45e3f1023": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_05.scene.nasset/M_Brick_05.mesh.nasset"
+    },
+    "08c523a7-0424-c9d7-f0b6-c9b711fc8049": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_02.scene.nasset/M_Trim-72.mesh.nasset"
+    },
+    "08c5d4f3-4430-52df-5172-1c298322ab8a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_01.scene.nasset/M_Trim-52.mesh.nasset"
+    },
+    "097fb15f-46cd-e49a-eb0b-5466a72c61ad": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_02.scene.nasset/SM_Shader_Ball_Ground_02.scene.nasset"
+    },
+    "09b42662-c462-d2c6-bea4-06276c3d7e33": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_03.scene.nasset/M_Trim-18.mesh.nasset"
+    },
+    "09c6fa5b-fdc1-cc98-035d-b46639eb66bb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_00.scene.nasset/M_Trim-5.mesh.nasset"
+    },
+    "0ad8ce3e-93a2-b084-2313-74aa53b2630f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_03.scene.nasset/M_Ball_Ref-34.mesh.nasset"
+    },
+    "0b199e76-8848-87be-3061-943f55998c75": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_09.scene.nasset/M_Ball_Ref-25.mesh.nasset"
+    },
+    "0b245580-7f2a-5008-3c3b-97376b21d15a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_01.mtli.nasset"
+    },
+    "0b2c43e2-07ce-69c4-7ead-58bb0e6e76ad": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_40.mtli.nasset"
+    },
+    "0c188198-1a32-1f4c-300f-85747c6d117c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_00.scene.nasset/M_Rough_00.mesh.nasset"
+    },
+    "0c658954-dbaa-0507-f820-16947a87473d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_05.scene.nasset/SM_Shader_Ball_Brick_05.scene.nasset"
+    },
+    "0c8556fe-feb1-ae11-33b9-4da7243703ae": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_05.scene.nasset/M_Ground_05.mesh.nasset"
+    },
+    "0d235992-3fad-fc64-6b7e-22697bac287f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_03.scene.nasset/M_Trim-54.mesh.nasset"
+    },
+    "0d45c176-ce46-6045-a15d-81c2ba6163e1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_07.scene.nasset/M_Ball_Ref-13.mesh.nasset"
+    },
+    "0df20c81-c6ce-ce4b-2012-f45795cb0477": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_02.scene.nasset/SM_Shader_Ball_Brick_02.scene.nasset"
+    },
+    "0e78d905-cdb6-89b3-e942-513ef8397b6f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_02.scene.nasset/M_Trim-94.mesh.nasset"
+    },
+    "0efe81e5-5d12-1546-4c9b-521c651a117e": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_04.scene.nasset/SM_Shader_Ball_Ground_04.scene.nasset"
+    },
+    "0fbc2307-46f2-9cf7-5302-149e689ae11d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_03.scene.nasset/M_Ball_Ref-19.mesh.nasset"
+    },
+    "0fe5837b-14e0-1d16-25cd-d1efa1fe83e1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_03.scene.nasset/M_Trim-76.mesh.nasset"
+    },
+    "105dff3d-99c3-d4dc-057f-e843c6255385": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_03.scene.nasset/M_Ball_Ref-48.mesh.nasset"
+    },
+    "10f9c287-8bd1-6923-b311-c1574c18793d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ball_Ref_R.tex.nasset"
+    },
+    "10fad323-404f-38b6-4bb7-c47267bf4f89": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_05.scene.nasset/SM_Shader_Ball_Metallic_05.scene.nasset"
+    },
+    "11577fe2-9ea0-c494-60ad-f9cb6ba26a2a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_White.scene.nasset/M_Trim-2.mesh.nasset"
+    },
+    "11cb2c76-5253-2446-71ff-236e65c6d1f4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick05_D.tex.nasset"
+    },
+    "11f106a1-a945-ae6f-6270-6bd17fc3b749": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_20.mtli.nasset"
+    },
+    "126c1ea4-5e49-cc2d-3250-3f13def5573e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_04.scene.nasset/M_Trim-77.mesh.nasset"
+    },
+    "127a51ec-127c-1800-edda-9087dc5377bc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_03.scene.nasset/M_Trim-35.mesh.nasset"
+    },
+    "135837a9-35b9-8f3b-d4b2-fec418cff922": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_09.scene.nasset/M_Trim-49.mesh.nasset"
+    },
+    "14873c92-8d03-8063-08e5-458fceef8d3e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_03.scene.nasset/M_Fabric_03.mesh.nasset"
+    },
+    "1537640a-34e6-22b0-c5a3-a37ca3e4201d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_00.scene.nasset/SM_Shader_Ball_Rough_00.scene.nasset"
+    },
+    "1616daa1-8584-b816-c9f8-ba05d513d76a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_05.scene.nasset/SM_Shader_Ball_Fabric_05.scene.nasset"
+    },
+    "16224cc8-dfcc-3349-3251-28ee67fd707d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Chrome.scene.nasset/M_Trim-9.mesh.nasset"
+    },
+    "1666c693-136e-fcff-cabd-44bc5a79aa1e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Trim.mtli.nasset"
+    },
+    "1745f682-82ea-3952-3ba7-1f81b420810e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_02.scene.nasset/M_Ground_02.mesh.nasset"
+    },
+    "17d26cbe-051c-cf30-694f-b8925937f4c2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_01.scene.nasset/M_Ball_Ref-42.mesh.nasset"
+    },
+    "19d0e85c-63fd-34b5-446c-b1093df1502b": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_05.scene.nasset/SM_Shader_Ball_Stone_05.scene.nasset"
+    },
+    "1a244bae-54f2-7f21-5825-113e13e221d8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Brick_03.mesh.nasset"
+    },
+    "1a68d1cc-afc6-34b8-0f99-18d18a374cf1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground04_N.tex.nasset"
+    },
+    "1b0f4742-feba-a8d4-3cfa-4fe91c9c231b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_02.mtli.nasset"
+    },
+    "1b394576-353e-c1a3-85c5-cf88b1febd82": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_02.scene.nasset/M_Ball_Ref-27.mesh.nasset"
+    },
+    "1b4b9a64-7fc5-289d-118d-7f5eff382871": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_09.scene.nasset/M_Metal_90.mesh.nasset"
+    },
+    "1c65b90b-fb88-73a2-500b-a1abf3211f9c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_01.scene.nasset/M_Brick_01.mesh.nasset"
+    },
+    "1c6f5274-877e-7afc-baca-5ba9ef4fea34": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric01_R.tex.nasset"
+    },
+    "1c8fd018-0ad5-c758-17a0-6a85b7087a09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_White.scene.nasset/M_Trim-3.mesh.nasset"
+    },
+    "1c978c65-6cc5-6234-a624-5f865c1e6504": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick01_N.tex.nasset"
+    },
+    "1e2b841d-7d9c-917d-c937-365513b69e0a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_05.scene.nasset/M_Ball_Ref-30.mesh.nasset"
+    },
+    "1e9ea03e-155a-0ddb-f0d3-522b0759f018": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Grey.scene.nasset/M_Grey.mesh.nasset"
+    },
+    "1f5c1868-fffa-d09c-193e-5767097ab48b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone05_N.tex.nasset"
+    },
+    "1fbeb0c4-7f96-29d7-2335-dfb378299c22": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_02.scene.nasset/M_Trim-33.mesh.nasset"
+    },
+    "1fe9c403-adad-5f11-8441-0d872f0672f3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_08.scene.nasset/M_Trim-44.mesh.nasset"
+    },
+    "21414be0-1d2d-b668-54be-f3fe47f3fcb9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_03.scene.nasset/M_Trim-65.mesh.nasset"
+    },
+    "216397aa-fe7e-18c3-09aa-c295dd382c84": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_00.mtli.nasset"
+    },
+    "219742c3-a6d4-8338-38a4-54d06fda2339": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_04.scene.nasset/SM_Shader_Ball_Rough_04.scene.nasset"
+    },
+    "225390e5-eeba-cdc3-2643-89c7e4141a5b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_10.scene.nasset/M_Ball_Ref-20.mesh.nasset"
+    },
+    "228b2e9c-9d3c-fca5-418c-c5052aaa8c2b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_10.scene.nasset/M_Trim-31.mesh.nasset"
+    },
+    "229c4645-6269-3677-477c-2c9192d6fc7b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_03.scene.nasset/M_Ball_Ref-39.mesh.nasset"
+    },
+    "22c9d8a5-ea5e-dc14-c082-22eb470735c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_02.scene.nasset/M_Trim-73.mesh.nasset"
+    },
+    "23547267-7d7c-c903-1368-0b46754962e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone02_D.tex.nasset"
+    },
+    "2369d00f-05d7-582b-da0c-d068a0e48de2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_05.scene.nasset/M_Ball_Ref-46.mesh.nasset"
+    },
+    "24318ec9-63a7-899f-adeb-45dce25246b4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_00.scene.nasset/M_Ball_Ref-6.mesh.nasset"
+    },
+    "2491a95b-d7a2-3d35-827f-edf8cdbddec5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_02.scene.nasset/SM_Shader_Ball_Metallic_02.scene.nasset"
+    },
+    "25ef7970-07dd-22da-613c-64b00134897b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_06.scene.nasset/M_Ball_Ref-22.mesh.nasset"
+    },
+    "26b518d1-6f82-6717-3461-fdafb53603c3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_02.scene.nasset/SM_Shader_Ball_Rough_02.scene.nasset"
+    },
+    "270620ee-7482-4aa0-1536-3d8c6ba2c2eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_02.scene.nasset/M_Trim-84.mesh.nasset"
+    },
+    "27e67b8a-af32-1c25-174b-8bcafdce9ebb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_04.scene.nasset/M_Trim-20.mesh.nasset"
+    },
+    "287f6b2b-88a8-6bcd-2b7e-bed54043092f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_01.scene.nasset/M_Ball_Ref-37.mesh.nasset"
+    },
+    "292952a7-a57e-23ac-3558-700d36f72786": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal02_N.tex.nasset"
+    },
+    "29ba5612-c20a-c9bf-d529-5ccbb87b86cb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_02.scene.nasset/M_Stone_02.mesh.nasset"
+    },
+    "29c0ea4a-b3cb-8dcc-e6aa-984bff0708d8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_05.scene.nasset/M_Ball_Ref-21.mesh.nasset"
+    },
+    "2a92960f-8d63-90f0-dd36-2d2a35cb451f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_04.scene.nasset/SM_Shader_Ball_Metallic_04.scene.nasset"
+    },
+    "2b18fe57-64bd-6d8d-e674-e6a68ae5b86a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_05.scene.nasset/M_Trim-59.mesh.nasset"
+    },
+    "2b6d9fe7-41f3-cadb-94e6-0cb06800255f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_03.scene.nasset/M_Ball_Ref-33.mesh.nasset"
+    },
+    "2bce97e5-0497-4bd7-87c8-7f6928e8fe37": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Brdf.tex.nasset"
+    },
+    "2c371acb-82a2-bfde-b380-c1207b594ceb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_04.scene.nasset/M_Trim-19.mesh.nasset"
+    },
+    "2cd290ee-613b-82ac-5264-5a7104c63f50": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_01.scene.nasset/M_Fabric_01.mesh.nasset"
+    },
+    "2cd49ab9-5b2c-076d-642f-9352a9c77a10": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric01_D.tex.nasset"
+    },
+    "2d25c5f5-a328-47a3-a297-8196dc25057e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground01_R.tex.nasset"
+    },
+    "2d6c5529-2078-ef9d-f333-0ab4ab2bce25": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_10.scene.nasset/M_Ball_Ref-16.mesh.nasset"
+    },
+    "2da1b9c7-59d6-4770-55de-e735b26cfabb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_07.scene.nasset/M_Rough_70.mesh.nasset"
+    },
+    "2dd20f03-ca59-41d9-0234-faa8c0d3badf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_01.scene.nasset/M_Trim-90.mesh.nasset"
+    },
+    "2edf16b1-9f1a-28d7-3c1c-e25fc7fee97b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_04.scene.nasset/M_Trim-95.mesh.nasset"
+    },
+    "2f066906-7127-e385-8755-620bae4e79ac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone02_N.tex.nasset"
+    },
+    "30814e16-449c-da1a-2a2e-6e2799828c58": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric02_N.tex.nasset"
+    },
+    "309df3f9-b974-4069-4010-243a2da545fa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground03_N.tex.nasset"
+    },
+    "30cfdc5f-292d-5500-dda1-93a61975b63d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_03.scene.nasset/M_Trim-34.mesh.nasset"
+    },
+    "30e4b310-6895-c292-0c38-0add0ed39aca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_03.scene.nasset/M_Trim-64.mesh.nasset"
+    },
+    "318d458c-d7a2-9a47-321b-78cda9de6e2d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric03_R.tex.nasset"
+    },
+    "31fad77b-02ad-1a5b-3b90-ffcbbf4e478d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground01_N.tex.nasset"
+    },
+    "32300968-e95f-9ae7-c14d-6f2c777a0637": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_02.scene.nasset/M_Trim-64.mesh.nasset"
+    },
+    "323a10fb-2d87-bb09-b94d-0757b00bb8ee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick05_R.tex.nasset"
+    },
+    "32a50caa-420a-4db3-c3e1-7bc38fda62dd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_05.scene.nasset/M_Trim-97.mesh.nasset"
+    },
+    "334acd40-88d2-4563-f90a-ae5095410f38": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_04.scene.nasset/M_Trim-66.mesh.nasset"
+    },
+    "33f47245-5fba-dd1a-bc99-51481e524d47": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick03_N.tex.nasset"
+    },
+    "343308da-5ad9-34dd-645b-6cc352695c4f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SC_Shader_Library.scene.nasset"
+    },
+    "3600eb26-5314-fb8f-20a5-0ba713735707": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric05_D.tex.nasset"
+    },
+    "36a7a37f-b27b-7aef-dc12-4587fa3b6c9e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground01_D.tex.nasset"
+    },
+    "36c9054b-6c7e-ea3b-1bdf-e7aa397b7c27": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_03.scene.nasset/SM_Shader_Ball_Rough_03.scene.nasset"
+    },
+    "36faf926-7fac-bc37-00f2-649067cb85ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_10.scene.nasset/M_Grid.mesh.nasset"
+    },
+    "3815bed0-92db-ff12-292a-3356859d9c72": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_RoughMetal.mesh.nasset"
+    },
+    "38cadd23-db57-d0f0-d714-1ba428b65635": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Brick_02.mtli.nasset"
+    },
+    "38e11576-d491-fef6-05fd-53a8098c88ad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_08.scene.nasset/M_Trim-47.mesh.nasset"
+    },
+    "390101e6-cbdc-4795-0cda-fa75fbcf1def": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Black.scene.nasset/M_Trim-6.mesh.nasset"
+    },
+    "3a07886b-1bda-435c-2c96-6e0ca2042dfd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_04.scene.nasset/M_Trim-56.mesh.nasset"
+    },
+    "3a88a90f-6083-0a69-35b8-bca09d34e170": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone01_D.tex.nasset"
+    },
+    "3ab50082-6479-9f97-569b-3eb1bbfa3337": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Grey.scene.nasset/M_Ball_Ref-2.mesh.nasset"
+    },
+    "3b39eefe-83d2-df72-3341-c3c4f47930a1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_03.scene.nasset/M_Ball_Ref-49.mesh.nasset"
+    },
+    "3b5bb4cb-0196-d1e4-2d28-d6ec5aee395b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_05.scene.nasset/M_Trim-89.mesh.nasset"
+    },
+    "3b9967bc-d554-6abb-905b-9d7dbab55cd0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric05_N.tex.nasset"
+    },
+    "3c2be96c-980e-65b1-822d-20d5fed9f9d9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_09.scene.nasset/M_Trim-46.mesh.nasset"
+    },
+    "3cb04c36-6e61-0d4e-9960-d8754057e354": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_02.scene.nasset/SM_Shader_Ball_Fabric_02.scene.nasset"
+    },
+    "3d52a968-b99e-c3fd-f4de-03afba2f9632": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal04_R.tex.nasset"
+    },
+    "3e01ffe6-308e-cd7a-6f9e-a34c67f3a0f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_07.scene.nasset/M_Trim-24.mesh.nasset"
+    },
+    "3ec3593b-cc53-4643-cce9-aaf83fedb45b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_06.scene.nasset/M_Trim-42.mesh.nasset"
+    },
+    "3ef103c4-2ccc-28d1-c582-de4cda8a5512": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_04.scene.nasset/M_Trim-57.mesh.nasset"
+    },
+    "3f6f5f9c-a919-db89-e79d-2aa1807ff9d6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_07.scene.nasset/SM_Shader_Ball_Metallic_07.scene.nasset"
+    },
+    "3f888aac-4478-98cf-6070-dcd505fa5649": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_01.scene.nasset/M_Trim-89.mesh.nasset"
+    },
+    "3fa4879a-68ec-91a3-48b4-9a130edfc11c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_05.scene.nasset/M_Trim-90.mesh.nasset"
+    },
+    "40069aac-af41-300a-a1cb-85fbc8b7bbf7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_05.scene.nasset/M_Trim-87.mesh.nasset"
+    },
+    "40c78c3e-9daa-543c-0ad4-3e9a533f4ebf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_03.scene.nasset/M_Trim-86.mesh.nasset"
+    },
+    "4189631b-8dec-c568-7be5-121da79467c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_04.scene.nasset/M_Ball_Ref-40.mesh.nasset"
+    },
+    "42072af4-5989-9c9f-fa74-7e7df9b48a07": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Brick_05.mesh.nasset"
+    },
+    "4263b430-c2b5-db00-2b1e-de4f73330b87": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_04.scene.nasset/M_Metal_40.mesh.nasset"
+    },
+    "430d5eba-6db9-7498-4adc-c66fcdfa4de6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric04_D.tex.nasset"
+    },
+    "434549bc-3e62-3440-67e1-c4047891deb2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Fabric_04.mesh.nasset"
+    },
+    "43f21c48-7947-9092-d96f-1d877bdb1c86": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_06.scene.nasset/SM_Shader_Ball_Rough_06.scene.nasset"
+    },
+    "43f3b01d-0e4e-27c1-c369-c4ca5c2d1173": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_01.scene.nasset/M_Trim-14.mesh.nasset"
+    },
+    "449996d4-c9ed-f2d9-45ed-347854d31630": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_08.scene.nasset/SM_Shader_Ball_Rough_08.scene.nasset"
+    },
+    "44c92fb4-b91c-535b-82d9-7d75e887f774": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_04.scene.nasset/M_Ball_Ref-35.mesh.nasset"
+    },
+    "45713ab8-0d8f-b809-e8f4-affce6045176": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_02.scene.nasset/SM_Shader_Ball_Metal_02.scene.nasset"
+    },
+    "45742194-559a-9098-2382-0dacde01b76e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_04.scene.nasset/M_Ball_Ref-49.mesh.nasset"
+    },
+    "457d9a64-6df3-aaf6-72b2-ffaa162d0926": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_04.scene.nasset/M_Ball_Ref-20.mesh.nasset"
+    },
+    "4635c128-170b-2057-d290-6699b43ba0c6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_05.scene.nasset/M_Trim-79.mesh.nasset"
+    },
+    "464614ca-94f4-7efb-b5eb-a3a33a9c2eb7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_02.scene.nasset/M_Metal_20.mesh.nasset"
+    },
+    "466ff765-c827-e92e-6aae-7ea2da6c6f71": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_04.scene.nasset/M_Metal_04.mesh.nasset"
+    },
+    "46765325-3272-789c-8834-69011215dc4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_03.scene.nasset/M_Ball_Ref-38.mesh.nasset"
+    },
+    "480e1b94-028c-9870-d7f2-8275a3769b0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_08.scene.nasset/M_Trim-27.mesh.nasset"
+    },
+    "485e83df-8fa2-4c0d-83cc-24fce3291ed2": {
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Shader Library.scene.nasset",
+        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
+    },
+    "48c7281a-eb4d-f47d-013e-614ca96b7ce5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_04.scene.nasset/M_Trim-85.mesh.nasset"
+    },
+    "48f5d530-0703-5e01-e684-36a3a5218e85": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_05.scene.nasset/M_Ball_Ref-50.mesh.nasset"
+    },
+    "499bcd76-ecd4-7ef8-8818-a61ec0e25348": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Metal_04.mesh.nasset"
+    },
+    "49a9e781-f5ab-c3e0-4da8-16acd8989fb4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric02_D.tex.nasset"
+    },
+    "4a6cc6a8-ffc0-6cd2-8e7f-bf490528aac0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_60.mtli.nasset"
+    },
+    "4ad8f0b8-e943-42c6-819b-46d150247cdc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_02.scene.nasset/M_Ball_Ref-33.mesh.nasset"
+    },
+    "4d0a0ca3-8624-8c4a-6d19-7dcc7f913822": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_05.scene.nasset/M_Ball_Ref-35.mesh.nasset"
+    },
+    "4d7a5a9a-e3bb-b776-bb6e-a8073c9a366b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_03.scene.nasset/M_Brick_03.mesh.nasset"
+    },
+    "4daa0003-e49b-3e4d-9a2e-350d6726ce50": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_05.scene.nasset/M_Trim-99.mesh.nasset"
+    },
+    "4e9d97ba-261f-62ae-8dd9-048e5e4d202d": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_01.scene.nasset/SM_Shader_Ball_Metal_01.scene.nasset"
+    },
+    "4f01012a-9e64-962b-daa7-c0937daf114d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_10.scene.nasset/M_Trim-29.mesh.nasset"
+    },
+    "4f5ad0eb-371d-931f-23bf-c84c36da8027": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Stone_04.mesh.nasset"
+    },
+    "50ae905b-dc07-a491-0fd3-568f3c792ed8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_05.scene.nasset/M_Trim-69.mesh.nasset"
+    },
+    "5202cd00-cdc6-2c83-8c84-b13af819bc01": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Ground_03.mtli.nasset"
+    },
+    "538173b1-5e32-3e56-c44d-4506db8a2085": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_00.scene.nasset/M_Trim-11.mesh.nasset"
+    },
+    "53bbe1c9-f0ec-c33b-9393-48b3b729dca1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_03.scene.nasset/M_Trim-93.mesh.nasset"
+    },
+    "540b3eba-9a71-aa6f-726b-38b5f88aad15": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_01.scene.nasset/M_Rough_10.mesh.nasset"
+    },
+    "546ad370-e974-9681-9429-cfd2cb962448": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_02.scene.nasset/M_Trim-35.mesh.nasset"
+    },
+    "54fb4528-7522-cab4-de6e-e4fafbe73819": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_03.scene.nasset/M_Ball_Ref-29.mesh.nasset"
+    },
+    "55182e2d-228c-493a-a41d-c4ee7da5c82a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Grey.scene.nasset/M_Trim-5.mesh.nasset"
+    },
+    "55a3823a-9332-edd2-f1d2-2a262d1190f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_03.scene.nasset/M_Trim-96.mesh.nasset"
+    },
+    "5613acd7-dd49-027a-bd00-366e400a0cf8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick04_N.tex.nasset"
+    },
+    "58a93a99-4500-84ab-cfce-ca5ce83f28db": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_03.scene.nasset/SM_Shader_Ball_Metallic_03.scene.nasset"
+    },
+    "58e8c469-7e7a-1e30-6d32-a94649b14e9e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_04.scene.nasset/M_Stone_04.mesh.nasset"
+    },
+    "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Skybox.mtli.nasset",
+        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+    },
+    "5a7810f3-a874-33f1-7e6b-1f85db5f33f9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_01.scene.nasset/M_Trim-14.mesh.nasset"
+    },
+    "5a93ae2b-58a2-a1e3-46b3-e060ec05cf1a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_05.scene.nasset/M_Ball_Ref-51.mesh.nasset"
+    },
+    "5a985f87-6c4c-6b22-81e1-da164a686a29": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Grey.mesh.nasset"
+    },
+    "5b32c1ca-4b37-e926-1966-d5813576ede4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_10.scene.nasset/SM_Shader_Ball_Rough_10.scene.nasset"
+    },
+    "5bf19b42-3222-9c17-4407-36bba49e0519": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_04.scene.nasset/M_Ball_Ref-39.mesh.nasset"
+    },
+    "5c574ea7-99ef-f2c8-b1ad-464c4b3b9802": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Chrome.scene.nasset/M_Metal_100.mesh.nasset"
+    },
+    "5cb7a4d2-708f-1045-e16b-1804368b42b5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_02.scene.nasset/M_Ball_Ref-42.mesh.nasset"
+    },
+    "5d4c8194-c55c-16ee-9564-a89fa36f3643": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_04.scene.nasset/M_Trim-36.mesh.nasset"
+    },
+    "5de00d09-dce3-acc5-1e1c-3567da4cb6af": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Stone_04.mtli.nasset"
+    },
+    "5df3587c-aa81-5c9d-5a80-e37a4e69a4a0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_03.scene.nasset/M_Trim-55.mesh.nasset"
+    },
+    "5e9f894f-724a-fc6d-b5f2-39ddb3b34824": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick01_D.tex.nasset"
+    },
+    "5f11c435-ec3f-bd7f-10ed-f60fbb64b758": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Ground_05.mtli.nasset"
+    },
+    "5f1523c4-dd62-cf3e-ab92-08d8f6011dc1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_01.scene.nasset/M_Ball_Ref-17.mesh.nasset"
+    },
+    "5f2544c4-27ef-416f-3faa-3f2f6813a582": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal04_N.tex.nasset"
+    },
+    "5fc55b0b-c8b6-9404-a746-7a393558663b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Stone_03.mtli.nasset"
+    },
+    "5fd93dba-1da0-4cc8-f839-7be7c36aa773": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_09.scene.nasset/M_Trim-48.mesh.nasset"
+    },
+    "5feaf106-3185-f276-6897-f5d48a9c9fd5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_08.scene.nasset/SM_Shader_Ball_Metallic_08.scene.nasset"
+    },
+    "60028800-e163-e886-5276-48df790fe6b6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_09.scene.nasset/M_Trim-29.mesh.nasset"
+    },
+    "603fea1a-3d17-6ae4-a489-7e13ddd4cb22": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_02.scene.nasset/M_Fabric_02.mesh.nasset"
+    },
+    "60936336-4abc-8476-e78e-9f78ebfe8c77": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_07.scene.nasset/M_Ball_Ref-23.mesh.nasset"
+    },
+    "60a2b93c-8009-8a71-afee-ba76b77f364c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric04_N.tex.nasset"
+    },
+    "61004fc5-9f9e-80b5-6da2-2ac44fe95120": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_01.scene.nasset/SM_Shader_Ball_Brick_01.scene.nasset"
+    },
+    "61d63651-39e8-a6f8-8f20-a568c67619a1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_05.scene.nasset/M_Ball_Ref-11.mesh.nasset"
+    },
+    "627af278-ecd5-2cb9-bd9e-11be05c2b928": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_05.scene.nasset/M_Ball_Ref-31.mesh.nasset"
+    },
+    "62ff76b0-7d3a-87c8-986a-e297659c3062": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal01_R.tex.nasset"
+    },
+    "635f308f-b088-81a8-1a84-44fdfcd36a86": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Stone_05.mtli.nasset"
+    },
+    "63bbe468-a338-2bfa-6452-3cb2c5f9da10": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal01_D.tex.nasset"
+    },
+    "64a0e979-ae6b-3189-1158-97712d9f864f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone04_R.tex.nasset"
+    },
+    "65306dd2-c122-30ef-0240-418fb473ca21": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_05.scene.nasset/M_Ball_Ref-45.mesh.nasset"
+    },
+    "653419eb-7bb1-2af4-e9a4-c6aa337de252": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Brick_04.mtli.nasset"
+    },
+    "655be0a3-c41e-a0f6-21e5-2aa8ae2a8c36": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_01.scene.nasset/M_Ball_Ref-31.mesh.nasset"
+    },
+    "662990ed-90df-e881-89d8-6d41a74441ce": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_09.scene.nasset/SM_Shader_Ball_Metallic_09.scene.nasset"
+    },
+    "6826fe0d-f283-2319-cb24-7ce87555996c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_05.scene.nasset/M_Trim-40.mesh.nasset"
+    },
+    "68695d3e-ebb3-5478-0b14-54b8b54d3bf8": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_10.scene.nasset/SM_Shader_Ball_Metallic_10.scene.nasset"
+    },
+    "699684be-374e-41fc-b502-bdbedbcb302d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Prefiltered.tex.nasset"
+    },
+    "6aac306f-cf1b-f3f0-8503-ab92a8e6a860": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_02.scene.nasset/M_Trim-34.mesh.nasset"
+    },
+    "6af0bfeb-0903-b149-1dcd-86fc78dae3f5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone03_N.tex.nasset"
+    },
+    "6b6a7471-8dc7-ce4d-c27f-31d3437a52f1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Ground_05.mesh.nasset"
+    },
+    "6bba639d-86a2-33d2-288d-04b751c78095": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone02_R.tex.nasset"
+    },
+    "6bef3591-3242-e282-5cb3-72959d2c78a1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_01.scene.nasset/M_Ball_Ref-41.mesh.nasset"
+    },
+    "6c6cf7e0-46f1-09ed-9024-2ea77e2a0a97": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_04.scene.nasset/M_Ball_Ref-10.mesh.nasset"
+    },
+    "6d9e56d6-fd0b-795c-5d16-e235021e7073": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_05.scene.nasset/M_Trim-41.mesh.nasset"
+    },
+    "6dee24bd-df38-98ca-0b35-01e4eddc5dec": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Grid.mtli.nasset"
+    },
+    "6e12ae7f-ba84-fc5a-2b12-c4b6d28be05d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Ground_01.mesh.nasset"
+    },
+    "6e79e721-97b8-54f9-0b26-2e89a756c091": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_80.mtli.nasset"
+    },
+    "6fbd76fa-8cf2-8d9c-e40a-3eaf1f721e01": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_50.mtli.nasset"
+    },
+    "70118075-9d0b-4035-be30-9f37bb49ae8c": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "thumbnail": "d2cce4e4-eea8-ae58-0b30-a2577cb4db81"
+    },
+    "711d609d-e00e-29e4-51c0-6091d00c87db": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_05.scene.nasset/M_Trim-58.mesh.nasset"
+    },
+    "728d083c-227d-78b3-c734-14a506d9812e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal02_R.tex.nasset"
+    },
+    "73138317-7c20-6c51-1f4d-3fc79a5c5e06": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_04.scene.nasset/M_Ball_Ref-30.mesh.nasset"
+    },
+    "732e0014-fae4-981d-ac06-8165385d10d0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_01.scene.nasset/M_Trim-91.mesh.nasset"
+    },
+    "7390cf64-65ea-aa00-712b-fb0b114ef86d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_03.scene.nasset/M_Trim-94.mesh.nasset"
+    },
+    "73b69356-12fd-56be-f605-53ff1f8a478f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_03.scene.nasset/M_Trim-84.mesh.nasset"
+    },
+    "74297f5a-6c8d-af5b-4d92-208651cc6056": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_03.scene.nasset/M_Trim-37.mesh.nasset"
+    },
+    "74c1fcbc-be71-a08c-2a44-1e68a6cd041a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric01_N.tex.nasset"
+    },
+    "74daf641-5ed6-4270-80c5-1e4334d77d84": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_05.scene.nasset/M_Trim-88.mesh.nasset"
+    },
+    "74f6f51d-416d-d861-1dbd-f18aafa50115": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_80.mtli.nasset"
+    },
+    "75549de1-8e51-fd21-f7ef-9e824678495b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_03.scene.nasset/M_Trim-75.mesh.nasset"
+    },
+    "757bff49-a2ba-ae6f-c65d-eddb6219305d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground04_R.tex.nasset"
+    },
+    "759b2e61-26be-1904-c6e4-409e7e5d19a3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_04.scene.nasset/M_Trim-86.mesh.nasset"
+    },
+    "75cafc2b-b66e-7988-b519-14d820103fa7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_04.scene.nasset/M_Fabric_04.mesh.nasset"
+    },
+    "767fe04f-56b8-06c2-5138-7d5823b6b98e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_02.scene.nasset/M_Trim-74.mesh.nasset"
+    },
+    "76a316be-a9da-357b-1663-fc525bc2622a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_05.mtli.nasset"
+    },
+    "76a4f8c5-e352-4de3-a2e9-39cbf92fb40f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Black.mesh.nasset"
+    },
+    "76b8e3cf-a322-8aeb-192a-244189d6ab83": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground05_R.tex.nasset"
+    },
+    "7732b671-f3f1-de07-f7c5-3157fddb43ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Stone_05.mesh.nasset"
+    },
+    "77d5d48a-5a7c-569c-75eb-f6471b5ac82c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_06.scene.nasset/M_Trim-24.mesh.nasset"
+    },
+    "77eb5cbd-0ee0-ecfd-78ec-a4c6da9718a2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_08.scene.nasset/M_Trim-25.mesh.nasset"
+    },
+    "781141ba-4c8d-348c-d40b-bd6e2df82948": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_100.mtli.nasset"
+    },
+    "787bc27f-f2e5-6d73-7cda-37cc9167847f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_05.scene.nasset/M_Ball_Ref-41.mesh.nasset"
+    },
+    "7a66a045-d8a0-6253-b8f6-c26dd7923a6c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_08.scene.nasset/M_Ball_Ref-24.mesh.nasset"
+    },
+    "7bc16df1-218d-cfa3-3881-607e29ee21e3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_01.scene.nasset/M_Trim-80.mesh.nasset"
+    },
+    "7c262daf-3de3-a364-03e4-832c6331f4ec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric05_R.tex.nasset"
+    },
+    "7d1dfbdf-23c3-cf3d-8815-d02cdaedd389": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_01.scene.nasset/M_Ball_Ref-36.mesh.nasset"
+    },
+    "7e8e4715-dcba-9d5f-b899-bb3adae8462d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Brick_03.mtli.nasset"
+    },
+    "7f810a7f-d12d-d259-2c7a-5e5e684ed471": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Stone_02.mesh.nasset"
+    },
+    "7fd8a5a1-1c38-f07a-9a0d-f7d3b0dc51b3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick04_R.tex.nasset"
+    },
+    "80252de3-c9e8-5b80-d5a7-d054c296916f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_05.scene.nasset/M_Trim-60.mesh.nasset"
+    },
+    "8152f9e8-ff07-6a24-7d75-a0fbc91a1d95": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_05.scene.nasset/M_Trim-38.mesh.nasset"
+    },
+    "81610542-5432-b76f-3dbc-3b232121f7dc": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Stone_01.mtli.nasset"
+    },
+    "8342ab19-ae7f-26bb-81d0-28436e446137": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick04_D.tex.nasset"
+    },
+    "83fef2e6-7f79-06c9-291c-b09d8cf143c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_White.scene.nasset/M_Trim.mesh.nasset"
+    },
+    "84791e1f-6918-9a5d-a56a-8b4d473ace71": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_05.scene.nasset/M_Trim-39.mesh.nasset"
+    },
+    "84af3d60-89f8-b327-de07-d4f21021f856": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_07.scene.nasset/M_Trim-3.mesh.nasset"
+    },
+    "84b802ac-5393-4fee-8b54-75a5d1385814": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Ground_02.mesh.nasset"
+    },
+    "84d0fe04-cb1a-e15b-7a7a-688dc556a54e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_03.scene.nasset/M_Ball_Ref-28.mesh.nasset"
+    },
+    "85499568-23dd-6475-a3fc-2c506c783c42": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_02.scene.nasset/M_Ball_Ref-18.mesh.nasset"
+    },
+    "863f93f3-4060-26f3-6fa0-a35c28f714d0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_01.scene.nasset/M_Stone_01.mesh.nasset"
+    },
+    "868a13e7-f984-3ff6-8606-1e3e1afbb627": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal05_R.tex.nasset"
+    },
+    "86ac7e7d-eed8-a875-290a-890d07ec497d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_01.scene.nasset/M_Ball_Ref-47.mesh.nasset"
+    },
+    "88829e1b-1706-2ea8-0d3e-bda82956e459": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal02_M.tex.nasset"
+    },
+    "889cfbab-e76a-0f4b-bee5-a8024aee7f73": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_02.scene.nasset/M_Trim-62.mesh.nasset"
+    },
+    "88fd33dc-3c44-2e35-d7ad-6b8b9ff81703": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_08.scene.nasset/M_Metal_80.mesh.nasset"
+    },
+    "8912c4f6-97e0-1798-0551-ec0888a9fcfe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_05.scene.nasset/M_Trim-70.mesh.nasset"
+    },
+    "892a79fa-80dc-8e64-f406-8a10ec7c5cd2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_01.scene.nasset/M_Ball_Ref-46.mesh.nasset"
+    },
+    "89df57fd-bedc-04c7-369c-62df00e442be": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_04.scene.nasset/M_Rough_40.mesh.nasset"
+    },
+    "8a603510-1e60-49a9-d2c5-47f8fa6c2de7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_05.scene.nasset/M_Trim-98.mesh.nasset"
+    },
+    "8a9f0171-37a0-def9-afa4-f4b5ddb7412f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_04.scene.nasset/SM_Shader_Ball_Fabric_04.scene.nasset"
+    },
+    "8b0c74d2-dc90-4e43-be4a-0a700f721fca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Ground_03.mesh.nasset"
+    },
+    "8bf61dc9-0e3a-a2f3-d03a-4278fd53c151": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Ground_01.mtli.nasset"
+    },
+    "8c45c8f1-c96c-24ba-428e-c431848d04a9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_02.scene.nasset/M_Trim-54.mesh.nasset"
+    },
+    "8c9950d6-f3b3-0ff1-b7ac-ad21481ac5a9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_04.scene.nasset/M_Trim-88.mesh.nasset"
+    },
+    "8ca8a7ef-7492-5fa0-f9e3-39493aa8eb53": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal04_D.tex.nasset"
+    },
+    "8d13439a-a280-484c-1092-300c728ace2f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_01.scene.nasset/M_Ground_01.mesh.nasset"
+    },
+    "8ed95e6a-53e1-b2a6-1035-e20576a2923d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_04.scene.nasset/M_Trim-37.mesh.nasset"
+    },
+    "8eebec1b-6efd-8fae-bbc4-79fded0a8035": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick03_D.tex.nasset"
+    },
+    "902e274c-f8d8-4a6d-5812-6797e98d0511": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_02.scene.nasset/M_Trim-93.mesh.nasset"
+    },
+    "91511eb4-27b9-d9bf-76c4-72368f3739fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_01.scene.nasset/M_Trim-71.mesh.nasset"
+    },
+    "92589043-6a7d-8f76-2cc2-0dc3008b88fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_05.scene.nasset/M_Ball_Ref-36.mesh.nasset"
+    },
+    "9261b63d-5f7e-1ccd-8423-9b720408c86e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_02.scene.nasset/M_Ball_Ref-38.mesh.nasset"
+    },
+    "934da461-0314-18c6-a6e6-50cdb58b0906": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric04_R.tex.nasset"
+    },
+    "93d58edd-bfe4-095f-d465-0614a9de1c04": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_02.scene.nasset/M_Trim-63.mesh.nasset"
+    },
+    "94e59728-bed1-fdae-d77a-5a4746f13d68": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_04.scene.nasset/M_Trim-87.mesh.nasset"
+    },
+    "94e5a748-6000-8cc0-db25-5a452cef716c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_01.scene.nasset/M_Trim-50.mesh.nasset"
+    },
+    "97825427-a95d-1fcc-6e9b-d616e78ce9f8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ball_Ref_M.tex.nasset"
+    },
+    "97ce0d75-d77e-5b6d-7274-d9d5c6395a45": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Black.scene.nasset/SM_Shader_Ball_Black.scene.nasset"
+    },
+    "97dba095-2c18-496c-bc43-a4726ccb845a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_01.scene.nasset/M_Trim-31.mesh.nasset"
+    },
+    "97ea67ea-d0e4-1238-b431-69270b0ea440": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_10.scene.nasset/M_Trim-48.mesh.nasset"
+    },
+    "97f57781-111c-d2d2-bce0-852e96dc0e18": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Chrome.scene.nasset/M_Trim-8.mesh.nasset"
+    },
+    "98d09b13-a924-827c-bcba-8d11203d2046": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_06.scene.nasset/M_Trim-23.mesh.nasset"
+    },
+    "98d40759-6ba1-b1b6-bd7d-858024d42726": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_09.scene.nasset/M_Trim-47.mesh.nasset"
+    },
+    "993959dd-f64d-e5d5-07aa-a827f59417ee": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone05_R.tex.nasset"
+    },
+    "9a36d189-b1d9-0f27-9729-a50d0a2f60fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_10.scene.nasset/M_Trim-50.mesh.nasset"
+    },
+    "9abb597b-1ffd-19b9-4ddf-8db0aa0562eb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_04.scene.nasset/M_Ball_Ref-29.mesh.nasset"
+    },
+    "9adcc521-c6a3-041a-6486-fbe906b987e1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_60.mtli.nasset"
+    },
+    "9b32bc1c-2248-2cfb-bd25-de5a46082236": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_02.scene.nasset/M_Trim-92.mesh.nasset"
+    },
+    "9bbe203a-3fc0-3443-3800-b45e32a44722": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_05.scene.nasset/SM_Shader_Ball_Ground_05.scene.nasset"
+    },
+    "9c29cb80-526d-5306-110b-393451c7eb41": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Chrome.mesh.nasset"
+    },
+    "9d03a05c-33cc-b271-dd4d-3bda9cd27858": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_03.scene.nasset/M_Trim-74.mesh.nasset"
+    },
+    "9d5d34e6-7f49-06d1-388e-66b12d333c94": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_01.scene.nasset/M_Trim-51.mesh.nasset"
+    },
+    "9ddc1f7d-7ac8-e3fd-24eb-8af20e2d1789": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_01.scene.nasset/M_Trim-61.mesh.nasset"
+    },
+    "9e02e0d5-e669-64a7-82cf-3638fc558a2f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_09.scene.nasset/M_Ball_Ref-15.mesh.nasset"
+    },
+    "9e3251f2-4a55-9285-911d-1d30e29b1d13": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_03.scene.nasset/M_Trim-17.mesh.nasset"
+    },
+    "9e60efaa-529f-b53f-7388-90685e4b95b8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_02.scene.nasset/M_Ball_Ref-37.mesh.nasset"
+    },
+    "9e92fecf-11fd-67f1-dc73-af68ece13340": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_08.scene.nasset/M_Rough_80.mesh.nasset"
+    },
+    "9eaedf11-eb3a-75ed-f87b-29f300e0f533": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone01_R.tex.nasset"
+    },
+    "9f650c6e-8681-0b58-1f07-c35535c67260": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_01.scene.nasset/SM_Shader_Ball_Stone_01.scene.nasset"
+    },
+    "9f9af325-1bdd-43bd-b1bc-dee3e18af6dd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_05.scene.nasset/M_Fabric_05.mesh.nasset"
+    },
+    "9fdc8b90-3c12-2048-c7be-348316258cb7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_10.scene.nasset/M_Metal_100-2.mesh.nasset"
+    },
+    "a0329bff-acac-eb5f-0b66-16ab77085667": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_04.scene.nasset/M_Trim-58.mesh.nasset"
+    },
+    "a077b455-f2a0-c2df-cd5d-34a9cb6f304a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_04.scene.nasset/M_Trim-78.mesh.nasset"
+    },
+    "a1170944-ca67-08bc-9b09-7b0aa149814a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_02.scene.nasset/M_Trim-91.mesh.nasset"
+    },
+    "a13c0f82-9a4f-edd9-8678-4927d2c6bd26": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Black.scene.nasset/M_Ball_Ref-3.mesh.nasset"
+    },
+    "a2a05081-84c2-7109-c120-7b309876e6e1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_03.scene.nasset/SM_Shader_Ball_Fabric_03.scene.nasset"
+    },
+    "a2ec4131-ffd8-4e0e-1b78-a0b15cc6f309": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_05.scene.nasset/M_Trim-22.mesh.nasset"
+    },
+    "a33bc18c-008c-939f-1554-c701562a59b0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_90.mtli.nasset"
+    },
+    "a377872d-b91e-3fe1-9a05-28abd9017e2a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_04.scene.nasset/M_Trim-67.mesh.nasset"
+    },
+    "a3b01434-e6e7-fd47-28db-35d428a70095": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_02.scene.nasset/M_Trim-53.mesh.nasset"
+    },
+    "a42a233d-4b38-6582-9e8d-da1895c58265": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick02_R.tex.nasset"
+    },
+    "a4f6649f-195c-ace8-cbcb-640edbbf4b4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_08.scene.nasset/M_Trim-45.mesh.nasset"
+    },
+    "a641a659-e739-e2c7-73af-bf7b3f780bb1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Brick_01.mesh.nasset"
+    },
+    "a6d1ec45-1c4c-3334-ce29-6ea75e0c2952": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_04.scene.nasset/M_Trim-76.mesh.nasset"
+    },
+    "a7da3fbf-a8ea-134d-2955-6f214b593f8d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_07.scene.nasset/M_Trim-25.mesh.nasset"
+    },
+    "a7f3c252-83b0-fcba-5c3b-cdaea73e37df": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_02.scene.nasset/M_Ball_Ref-47.mesh.nasset"
+    },
+    "a9325d18-87f2-7d08-e4fb-8f52fb05711a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_03.mtli.nasset"
+    },
+    "aa947505-89ea-4751-3b1b-081d5e7f610c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_03.scene.nasset/M_Ball_Ref-9.mesh.nasset"
+    },
+    "aad36906-8e44-1e5b-7e4b-f09632b455bd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone03_D.tex.nasset"
+    },
+    "aadd560d-d804-5cc0-f064-f5034a29e6b8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_05.scene.nasset/M_Trim-20.mesh.nasset"
+    },
+    "ab8715d9-eeb1-7d8c-7ace-3e652a358971": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Fabric_05.mtli.nasset"
+    },
+    "ab9259dd-fdf9-9a7e-0518-d221413ed5c3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground02_R.tex.nasset"
+    },
+    "adfe9d02-6dea-bce3-ec39-c7be89999637": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_04.scene.nasset/M_Ball_Ref-34.mesh.nasset"
+    },
+    "ae2cfe4f-2a2d-6fb8-2b7e-c19cc61112d0": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Fabric_03.mtli.nasset"
+    },
+    "ae356c71-02ff-4d13-b949-526fa021178e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone05_D.tex.nasset"
+    },
+    "ae401c8a-4b23-a57e-2da7-0309ad937dab": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_05.scene.nasset/M_Trim-21.mesh.nasset"
+    },
+    "aebdff89-a01b-3e8b-bf86-72eab0a08fd4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_04.scene.nasset/M_Trim-18.mesh.nasset"
+    },
+    "aed4b573-1676-67e4-610f-bbe098d5da71": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_White.mesh.nasset"
+    },
+    "af078a3d-d3d0-b28d-bf05-78ca4ea7b2a3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_03.scene.nasset/SM_Shader_Ball_Stone_03.scene.nasset"
+    },
+    "af38cadb-1bcb-279c-e725-97b30b493e7c": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_01.scene.nasset/SM_Shader_Ball_Fabric_01.scene.nasset"
+    },
+    "af644a02-5693-4483-c0d8-bafae69909fc": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_07.scene.nasset/M_Metal_70.mesh.nasset"
+    },
+    "af8d4df1-aea2-ef31-38b2-561ea7f72331": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_02.scene.nasset/M_Trim-32.mesh.nasset"
+    },
+    "b06f9ddf-ef48-7bef-e6f1-f286b50a462f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Stone_02.mtli.nasset"
+    },
+    "b0f997d7-9dfa-e920-3bfd-09b58cd26101": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Ground_02.mtli.nasset"
+    },
+    "b22f7264-554e-c37d-57ba-9560496fd693": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_05.scene.nasset/M_Trim-68.mesh.nasset"
+    },
+    "b27cbd9e-072e-1744-d0d3-948c89552e33": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Ground_04.mtli.nasset"
+    },
+    "b28d9ecb-e885-9bde-b6ff-b7c968ea5fa1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground02_N.tex.nasset"
+    },
+    "b2af4098-c82d-d8ef-b6a5-a8c42c4f3c67": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_03.scene.nasset/M_Stone_03.mesh.nasset"
+    },
+    "b34a620d-5c57-a5be-9c84-aedee670961b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Black.scene.nasset/M_Black.mesh.nasset"
+    },
+    "b34d0276-7fe8-5a3f-c012-25fab5b72233": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Ball_Ref.mtli.nasset"
+    },
+    "b356b365-df9a-2b7e-c734-3fc7c09c8e79": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_01.scene.nasset/M_Trim-70.mesh.nasset"
+    },
+    "b3ba4fe5-d46a-0317-8f01-3ef0b61c7674": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_04.scene.nasset/SM_Shader_Ball_Metal_04.scene.nasset"
+    },
+    "b46d7d80-fd56-7318-e2c3-a4110be5abda": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Chrome.scene.nasset/M_Ball_Ref-4.mesh.nasset"
+    },
+    "b55f9526-8986-76ae-3ba9-33a53b0fe40b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_02.scene.nasset/M_Trim-81.mesh.nasset"
+    },
+    "b5cfc2aa-9cdc-a907-7ad5-a3b97efafb43": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_02.scene.nasset/M_Trim-83.mesh.nasset"
+    },
+    "b608b3c0-ea2c-ec1c-d995-7bbbb7e73f82": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Fabric_02.mtli.nasset"
+    },
+    "b6d45002-785d-3071-4b83-7e0515640c47": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal05_N.tex.nasset"
+    },
+    "b6f1fb63-09a9-e20c-b121-09087cd662cd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_06.scene.nasset/M_Trim-43.mesh.nasset"
+    },
+    "b71a6f4c-470f-4632-39e1-490ec362575b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_00.scene.nasset/M_Trim-12.mesh.nasset"
+    },
+    "b76a0f99-c6db-41e8-364d-117e067ca894": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_03.scene.nasset/M_Trim-56.mesh.nasset"
+    },
+    "b79668dd-50c0-3a9f-b256-8c5fc00cd3b9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_10.mtli.nasset"
+    },
+    "b7e04051-d4cc-c164-f216-a8f9a085f6b1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_03.scene.nasset/M_Rough_30.mesh.nasset"
+    },
+    "b8442b7c-5e52-8161-d81e-ec061a47fd05": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_02.scene.nasset/M_Ball_Ref-48.mesh.nasset"
+    },
+    "b89635cb-78af-4d15-fad0-a7f1b4fda691": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_01.scene.nasset/M_Trim-79.mesh.nasset"
+    },
+    "b8ae357f-55ed-b479-5a41-357e78ba7e1d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_02.scene.nasset/M_Ball_Ref-32.mesh.nasset"
+    },
+    "b910989f-3bbc-d89c-67bf-d853807cdaaa": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Metal_02.mesh.nasset"
+    },
+    "b93c7708-5727-02bd-d7ee-e8d3777709ef": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_06.scene.nasset/SM_Shader_Ball_Metallic_06.scene.nasset"
+    },
+    "b9a61b8f-9234-7325-b45a-9e1ad8f0b37f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_01.scene.nasset/SM_Shader_Ball_Rough_01.scene.nasset"
+    },
+    "ba097f4d-b642-ab77-ff8b-9d39e213d068": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal04_M.tex.nasset"
+    },
+    "bac2c44f-a641-3679-4c82-68305d0bbd8d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Brick_02.mesh.nasset"
+    },
+    "bb7ff853-7a90-ece2-5459-d51c0372b153": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick02_D.tex.nasset"
+    },
+    "bc636138-ec25-1540-3418-bba1bc3b547f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_04.scene.nasset/M_Ball_Ref-50.mesh.nasset"
+    },
+    "bcadf0d5-6c81-fedf-6fb9-ee0ed4bdccb2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Brick_04.mesh.nasset"
+    },
+    "bd46f5bd-f3bb-ea40-fb3f-dcff8277f4aa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone03_R.tex.nasset"
+    },
+    "bd67436e-146a-4f3c-9939-36abb73832a3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_05.scene.nasset/M_Metal_05.mesh.nasset"
+    },
+    "bd9c21f5-abba-af45-7d16-02014e5a2d66": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal03_D.tex.nasset"
+    },
+    "be819625-150b-d91d-f1b6-24b48ab896fa": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_03.scene.nasset/SM_Shader_Ball_Metal_03.scene.nasset"
+    },
+    "bfe47e9b-25a9-26d5-eaad-e65d28e8cc7e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Metal_01.mesh.nasset"
+    },
+    "c036798f-71ba-c5df-8404-01f3bd47f924": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_50.mtli.nasset"
+    },
+    "c078e929-2bb0-d8da-4172-0e1dc032622f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_04.scene.nasset/M_Trim-97.mesh.nasset"
+    },
+    "c0942f4f-2166-8a95-ae68-ebd248b5624c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric02_R.tex.nasset"
+    },
+    "c16a513c-193d-38c3-76ba-138753b8772e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_01.scene.nasset/M_Ball_Ref-26.mesh.nasset"
+    },
+    "c1b15a0d-f2a9-4586-2431-1020e2051c88": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Fabric_02.mesh.nasset"
+    },
+    "c28d290c-473e-e701-8de5-97baaf6b228d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_07.scene.nasset/M_Trim-44.mesh.nasset"
+    },
+    "c2a57183-5e12-de27-f2d8-1179efefa62c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_01.scene.nasset/M_Trim-62.mesh.nasset"
+    },
+    "c362f5bd-fedb-0549-21d8-7ccb9340f96c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Fabric_03.mesh.nasset"
+    },
+    "c4e3d95e-3fd6-6cda-df7e-8b4f5f954be8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick05_N.tex.nasset"
+    },
+    "c57c5b46-977f-6bf5-e70e-8caa12fdf253": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_00.scene.nasset/M_Trim-6.mesh.nasset"
+    },
+    "c619674a-fa81-2849-d3f4-54034769bc4f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground02_D.tex.nasset"
+    },
+    "c62dcb7f-aa9d-8b95-6011-ebea11dc4d87": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_40.mtli.nasset"
+    },
+    "c69c09ef-84f3-d3e0-0b47-5a16ccac96a7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Grey.scene.nasset/SM_Shader_Ball_Grey.scene.nasset"
+    },
+    "c74fd4f1-3e37-a113-a9fa-896ee1b15df6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_07.scene.nasset/M_Trim-43.mesh.nasset"
+    },
+    "c84eb5dd-65ab-2ba6-8a8d-5fc51caef6a1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_03.scene.nasset/M_Trim-36.mesh.nasset"
+    },
+    "c92e1fd3-4eda-6d4f-09e0-2aafbabdc289": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone01_N.tex.nasset"
+    },
+    "c9444571-e96d-d496-8296-fe0c919152c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_02.scene.nasset/M_Trim-52.mesh.nasset"
+    },
+    "c9584745-5102-0101-3aa5-3fc0b395077a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal05_D.tex.nasset"
+    },
+    "c974fe0c-7898-8d2a-600d-fbb493cca69f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_07.scene.nasset/M_Trim-13.mesh.nasset"
+    },
+    "ca1518a5-5fee-755c-3758-244d4634edeb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_03.scene.nasset/M_Metal_30.mesh.nasset"
+    },
+    "ca838f6b-1974-f23d-0a0b-c52154f13233": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Fabric_01.mesh.nasset"
+    },
+    "cb936920-0f6f-d07a-a26d-ae38fb37f2d2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_05.scene.nasset/M_Stone_05.mesh.nasset"
+    },
+    "cba35cc5-6c39-9194-04fb-586a6e597708": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal03_R.tex.nasset"
+    },
+    "cc2f22bb-09e7-dcc0-adaf-f92f115d2624": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_09.scene.nasset/M_Trim-28.mesh.nasset"
+    },
+    "cc8e5e58-6b3e-d8e3-300c-7d726583699c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick02_N.tex.nasset"
+    },
+    "cce36cb7-9d83-1904-ea2c-788a806b9f50": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_04.scene.nasset/SM_Shader_Ball_Brick_04.scene.nasset"
+    },
+    "cd4806b8-9ed5-acf5-9d1a-3295ee05e259": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_03.scene.nasset/M_Ball_Ref-43.mesh.nasset"
+    },
+    "cdd701a3-1abe-265a-641e-4c670cb9076b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_02.scene.nasset/M_Ball_Ref-43.mesh.nasset"
+    },
+    "ce1d88f7-46a1-4bc9-b65e-1189aa91d1ed": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_03.scene.nasset/M_Ground_03.mesh.nasset"
+    },
+    "cf2673ac-cb56-3b85-6308-54f87d846b27": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_04.mtli.nasset"
+    },
+    "d0fea5e5-b897-3bfc-cca3-745efac4790f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick03_R.tex.nasset"
+    },
+    "d23058c9-97b0-286b-c605-b72825251dd0": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_White.scene.nasset/SM_Shader_Ball_White.scene.nasset"
+    },
+    "d2416fb4-bc47-1b03-e850-4c90a7e48f13": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_06.scene.nasset/M_Rough_60.mesh.nasset"
+    },
+    "d2cce4e4-eea8-ae58-0b30-a2577cb4db81": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Shader_Thumb.tex.nasset"
+    },
+    "d2e7e730-18e0-9918-1e6e-50f1c0f0f55b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_03.scene.nasset/M_Ball_Ref-44.mesh.nasset"
+    },
+    "d30101b9-4576-1698-5fab-16f8d26a7e4e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_02.scene.nasset/M_Trim-82.mesh.nasset"
+    },
+    "d356c663-004a-e034-7984-9a13e8c76dba": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_01.scene.nasset/M_Trim-33.mesh.nasset"
+    },
+    "d3d3a60c-42b1-9595-751c-bf595973b014": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_00.scene.nasset/M_Metal_00.mesh.nasset"
+    },
+    "d3db9269-3a5c-92a1-b4ff-4a402b37c4fe": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_01.scene.nasset/M_Metal_01.mesh.nasset"
+    },
+    "d479d9ae-21f7-2634-1621-35cc7ee92fe4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ball_Ref_D.tex.nasset"
+    },
+    "d4a03aee-f177-b5d6-03f8-6efafd9d96ca": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Black.mtli.nasset"
+    },
+    "d4a5493e-a775-16cb-e2de-375e2e95dfb2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_03.scene.nasset/SM_Shader_Ball_Ground_03.scene.nasset"
+    },
+    "d4cdbe1e-72ea-c6a9-9f03-ea936b03520b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_10.mtli.nasset"
+    },
+    "d4f4f67d-7a39-7824-28f8-2241ac011112": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_03.scene.nasset/M_Metal_03.mesh.nasset"
+    },
+    "d54d7a2b-3923-44a0-9de4-d71b080f5414": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "componentTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/SaschaRef/Irradiance.tex.nasset"
+    },
+    "d58bfcec-4ae7-6173-59c6-d5f80c57bc52": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_White.scene.nasset/M_Ball_Ref.mesh.nasset"
+    },
+    "d58d9593-bbf4-16fe-b4b4-8e9ae2085487": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_06.scene.nasset/M_Ball_Ref-12.mesh.nasset"
+    },
+    "d592f227-b03f-1cac-5e2b-8c3494ac654a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Grey.scene.nasset/M_Trim-4.mesh.nasset"
+    },
+    "d5a29b11-2887-a37c-e80a-8f53d5edb49d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Fabric_05.mesh.nasset"
+    },
+    "d653ed0f-5f23-97f0-abf4-186bc921ab55": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Chrome.scene.nasset/SM_Shader_Ball_Chrome.scene.nasset"
+    },
+    "d6d0b1ac-8bb4-7ee6-5ff7-e6d36ede23d3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Stone_03.mesh.nasset"
+    },
+    "d6dc9904-fd2c-e38c-6b0c-a28ef323a0c5": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_08.scene.nasset/M_Ball_Ref-14.mesh.nasset"
+    },
+    "d7d6fc6b-059c-ac4b-7e93-9c7663f77f41": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone04_D.tex.nasset"
+    },
+    "d91fbcf8-075a-9297-c5c5-16e3bd0f4dec": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Ground_04.mesh.nasset"
+    },
+    "d98d259d-485b-34e7-7d56-f2388ce2ffa6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_09.scene.nasset/SM_Shader_Ball_Rough_09.scene.nasset"
+    },
+    "d99c1318-832a-71d2-a030-1439b72c2bde": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_30.mtli.nasset"
+    },
+    "da1dd9c3-b869-fa82-fc3d-8a6795a2fc5d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_03.scene.nasset/M_Trim-95.mesh.nasset"
+    },
+    "db2b312f-8b68-ac7f-22d9-9501004ed6e4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_04.scene.nasset/M_Brick_04.mesh.nasset"
+    },
+    "db9305a0-36a4-17e2-a4b8-8484f34f16e6": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_06.scene.nasset/M_Trim-40.mesh.nasset"
+    },
+    "dbf685cc-80f4-a92d-1ac8-e26125696900": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_01.scene.nasset/SM_Shader_Ball_Metallic_01.scene.nasset"
+    },
+    "dc7868f1-92b9-d472-3723-cadf6e427925": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Fabric_04.mtli.nasset"
+    },
+    "dceadbeb-c33d-64fb-654a-732fc4c5add6": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_02.scene.nasset/SM_Shader_Ball_Stone_02.scene.nasset"
+    },
+    "dd07697b-3eff-8eb3-3af9-e4ad72b3ea51": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_03.scene.nasset/M_Trim-66.mesh.nasset"
+    },
+    "de2a1d4d-9a7f-d7b1-dd14-d435d58b4ddf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_01.scene.nasset/M_Trim-13.mesh.nasset"
+    },
+    "de9c62f7-32b1-3ce2-354a-072cdca98eaf": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_05.scene.nasset/M_Trim-77.mesh.nasset"
+    },
+    "deb3aec0-e701-2b7d-c636-d4be093c7913": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_04.scene.nasset/SM_Shader_Ball_Stone_04.scene.nasset"
+    },
+    "e2a63dfb-cddc-0f8c-3104-19e1ee026b86": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground03_R.tex.nasset"
+    },
+    "e307f042-4732-964c-9082-221d381f7e11": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_30.mtli.nasset"
+    },
+    "e350426c-3b38-b1c5-13e8-7536f32bc8a7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Metal_05.mesh.nasset"
+    },
+    "e4cbc31f-5051-0735-73a3-0d025a9e26d7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_05.scene.nasset/M_Trim-80.mesh.nasset"
+    },
+    "e4eb34d8-23fb-b717-8123-fb11e14a0c43": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_05.scene.nasset/SM_Shader_Ball_Rough_05.scene.nasset"
+    },
+    "e51b8806-473c-9480-3be7-ba022d46d838": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_02.scene.nasset/M_Ball_Ref-8.mesh.nasset"
+    },
+    "e52879a4-fbaf-1181-bb90-d7b49c45d545": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Brick01_R.tex.nasset"
+    },
+    "e5ce3a42-6175-c539-c3c1-499ceb087a09": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_06.scene.nasset/M_Trim-22.mesh.nasset"
+    },
+    "e66e7b23-c41f-f4d4-b393-eb033f55c8e0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_02.scene.nasset/M_Ball_Ref-28.mesh.nasset"
+    },
+    "e67f5317-2163-35ff-b0d9-431d818efaa1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_00.mtli.nasset"
+    },
+    "e7145f08-5300-019f-ff98-3249210a19ff": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Base_Stone_01.mesh.nasset"
+    },
+    "e87c1978-0be1-a290-f66f-b6d3c3fc91a3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_00.scene.nasset/M_Trim-10.mesh.nasset"
+    },
+    "e95306e6-fdd0-e72e-c51b-e45c9062cc4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_06.scene.nasset/M_Trim-41.mesh.nasset"
+    },
+    "e9c8454b-ba06-3afc-ba39-f4c5bbb9da4a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Black.scene.nasset/M_Trim-7.mesh.nasset"
+    },
+    "e9dc1ac2-646a-ba1b-8e9b-78964a8454de": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Fabric_01.mtli.nasset"
+    },
+    "ea68fbd9-d913-d3dd-0cd5-ed155911e70b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Rough_70.mtli.nasset"
+    },
+    "eb440fe9-9ea3-17c0-e289-f672320eeade": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_10.scene.nasset/M_Trim-49.mesh.nasset"
+    },
+    "eb6e7d56-038c-73c0-a9c5-b27bcebff35d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_07.scene.nasset/M_Trim-42.mesh.nasset"
+    },
+    "eba2eade-f778-b47b-7b30-8ef57bdf1ae1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_00.scene.nasset/SM_Shader_Ball_Metal_00.scene.nasset"
+    },
+    "ebb8135c-4363-8d34-c600-c03c1103d3c7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_00.scene.nasset/M_Ball_Ref-5.mesh.nasset"
+    },
+    "ec013da3-3116-fe6b-7515-6ba35047c7d4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground03_D.tex.nasset"
+    },
+    "ec3dd40b-7e70-d6a9-6634-5f0d8dd793fc": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_07.scene.nasset/SM_Shader_Ball_Rough_07.scene.nasset"
+    },
+    "ec478e9e-02b7-da66-364e-d8e60df4d02f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_05.scene.nasset/M_Trim-78.mesh.nasset"
+    },
+    "ecb7384d-5882-b3ec-75bb-1bf45e44d2a0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_01.scene.nasset/M_Trim-92.mesh.nasset"
+    },
+    "ecbebb8c-ddf9-356a-ccef-1fa604a700b4": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_01.scene.nasset/M_Trim-81.mesh.nasset"
+    },
+    "ecfa01e4-9a65-fdb7-168f-40f157a97dad": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_03.scene.nasset/M_Trim-83.mesh.nasset"
+    },
+    "ed19ea17-d7d7-eeab-9c0e-dc9662d29358": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Metal_90.mtli.nasset"
+    },
+    "ed20d4de-aecd-aa34-32bd-0227b8baf824": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_08.scene.nasset/M_Trim-26.mesh.nasset"
+    },
+    "ed5d866e-3dc5-2c76-103a-f50a6317ceca": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_04.scene.nasset/M_Trim-44.mesh.nasset"
+    },
+    "eda60524-a0c4-74a2-2f6e-bd9010206663": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_02.scene.nasset/M_Metal_02.mesh.nasset"
+    },
+    "ee924085-8576-deca-a471-da449ce80566": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_07.scene.nasset/M_Trim-45.mesh.nasset"
+    },
+    "ef118704-7633-ee7d-2648-fb0e75d62d5c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_03.scene.nasset/M_Trim-85.mesh.nasset"
+    },
+    "ef3d0dbe-3999-5f11-30a5-ef6abfdd254e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Brick_01.mtli.nasset"
+    },
+    "f06de34c-f326-449a-2f32-dfd60c34e9cd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_01.scene.nasset/M_Trim-82.mesh.nasset"
+    },
+    "f087b484-6cd0-287b-ea1e-404bff71be47": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Scene/Material Instances/M_Brick_05.mtli.nasset"
+    },
+    "f136d236-7fa8-9f5f-53a0-3df5812bd074": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric03_N.tex.nasset"
+    },
+    "f1a3aae8-3358-762b-1045-ce8ab6455561": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal01_N.tex.nasset"
+    },
+    "f1acb347-d63f-cb31-f724-85c5992ed003": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_10.scene.nasset/M_Trim-30.mesh.nasset"
+    },
+    "f1bc59e7-5bf5-4bde-3568-257ff5ef1535": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_02.scene.nasset/M_Rough_20.mesh.nasset"
+    },
+    "f240c791-be61-b245-aa4d-746cc2aaf07c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_02.scene.nasset/M_Brick_02.mesh.nasset"
+    },
+    "f242feb9-a63a-cdbd-1271-155e90f6cb06": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Metal03_N.tex.nasset"
+    },
+    "f2acae36-01f5-e0d6-b92c-9b57a0927375": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground05_D.tex.nasset"
+    },
+    "f412c239-7ef3-da32-3263-fbd18f51c50c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground05_N.tex.nasset"
+    },
+    "f43c3b34-1e04-56e6-83d1-849ae339cab8": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Brick_01.scene.nasset/M_Ball_Ref-27.mesh.nasset"
+    },
+    "f490be91-2a66-df84-c15d-c9ee116eef41": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_04.scene.nasset/M_Trim-39.mesh.nasset"
+    },
+    "f4f3b964-cfce-6abe-838b-94d9e8c42ce8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Stone04_N.tex.nasset"
+    },
+    "f52f2c8e-a70a-19ea-176c-64e560690929": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_01.scene.nasset/M_Ball_Ref-7.mesh.nasset"
+    },
+    "f5dae28d-539d-0ced-c8ca-f5b7b819c386": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Ground04_D.tex.nasset"
+    },
+    "f634f84c-e8c5-8f2e-8a5a-f4db3af1f0fd": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_04.scene.nasset/M_Ball_Ref-45.mesh.nasset"
+    },
+    "f6732224-7cb9-2d05-6463-3f88990a9e8c": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_05.scene.nasset/M_Metal_50.mesh.nasset"
+    },
+    "f78ddd45-07eb-5e4f-8df9-41f34cb03a6f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metal_04.scene.nasset/M_Ball_Ref-44.mesh.nasset"
+    },
+    "f8bb7a65-a9f0-3de2-b48a-e3390c359268": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Fabric_04.scene.nasset/M_Trim-68.mesh.nasset"
+    },
+    "f9fcddcb-26d8-4b89-33fb-0c8031acb41e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_01.scene.nasset/M_Trim-32.mesh.nasset"
+    },
+    "fb1a3037-c793-7ef7-2e15-7596771c8460": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_01.scene.nasset/M_Trim-72.mesh.nasset"
+    },
+    "fbd3993f-b65f-60fd-65e7-090347a0c35a": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_01.scene.nasset/M_Trim-30.mesh.nasset"
+    },
+    "fbdef215-ab72-f552-9967-f6a2526ec4c5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Scene/Textures/T_Fabric03_D.tex.nasset"
+    },
+    "fc896d61-e25a-a394-7925-01738a8ad676": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_10.scene.nasset/M_Trim-51.mesh.nasset"
+    },
+    "fcab0a5d-3546-68e5-ee61-ac6fb993ff0e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Ground_05.scene.nasset/M_Ball_Ref-40.mesh.nasset"
+    },
+    "fcca42fa-589c-91ef-ab18-ab195c2c77e3": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_05.scene.nasset/M_Rough_50.mesh.nasset"
+    },
+    "fd469bcd-09de-d58e-e56b-03ff941d531e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_06.scene.nasset/M_Metal_60.mesh.nasset"
+    },
+    "fd5740fc-56ca-fc55-de5c-286f6c43ce40": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_04.scene.nasset/M_Trim-38.mesh.nasset"
+    },
+    "fec69f47-cebd-cdf4-5045-46bb05b051b0": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Stone_04.scene.nasset/M_Trim-96.mesh.nasset"
+    },
+    "fefccf56-5ffd-1657-f247-a4d7fd118618": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_10.scene.nasset/M_Ball_Ref-26.mesh.nasset"
+    },
+    "ff77767f-78d1-1372-8f11-cba4aaa0182e": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "37deb13a-a642-4122-9880-3850f503d5fa",
+        "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Metallic_08.scene.nasset/M_Trim-46.mesh.nasset"
+    }
+}

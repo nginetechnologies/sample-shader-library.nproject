@@ -731,9 +731,10 @@
         "path": "Assets/Scene/SC_Shader_Library.scene.nasset/SM_Shader_Ball_Rough_08.scene.nasset/M_Trim-27.mesh.nasset"
     },
     "485e83df-8fa2-4c0d-83cc-24fce3291ed2": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Shader Library.scene.nasset",
-        "thumbnail": "a9a50dbb-7bba-d050-862c-e870af735f93"
+        "thumbnail": "10d99805-734b-0df1-6e6a-84199663ea75"
     },
     "48c7281a-eb4d-f47d-013e-614ca96b7ce5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",

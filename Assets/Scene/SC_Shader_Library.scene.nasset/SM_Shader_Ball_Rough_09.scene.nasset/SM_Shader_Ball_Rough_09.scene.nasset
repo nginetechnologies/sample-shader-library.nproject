@@ -15,7 +15,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "01981dc3-cdeb-60fc-f108-bdc029560a32",
                     "data_components": [
                         {
@@ -77,7 +77,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "3249865e-e83b-6a3a-6339-b41da84739ef",
                     "data_components": [
                         {
@@ -139,7 +139,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "7301ffb6-abfe-a267-06ca-0775140f75fe",
                     "data_components": [
                         {
@@ -201,7 +201,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "164ba071-87ae-fd53-5966-4bafaa08b1d3",
                     "data_components": [
                         {
@@ -263,7 +263,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "cdb36b7b-ac57-059e-2e86-b2af1c0788ba",
                     "data_components": [
                         {

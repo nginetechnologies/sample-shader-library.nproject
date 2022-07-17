@@ -15,7 +15,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "0568fee8-1505-742d-4f9e-098eb7f57df0",
                     "data_components": [
                         {
@@ -77,7 +77,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "c40aa711-996e-b435-2ac3-ba5294ed3930",
                     "data_components": [
                         {
@@ -139,7 +139,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "8c6371be-7362-ef3a-c175-923ce1769e37",
                     "data_components": [
                         {
@@ -201,7 +201,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "441b678e-361f-1b60-3dfc-599a04d64f6e",
                     "data_components": [
                         {
@@ -263,7 +263,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "a90f4f14-f06f-8592-cdc9-e34ad24f15ec",
                     "data_components": [
                         {
@@ -325,7 +325,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "4f44b972-0835-10a7-ecec-33f15be9c80d",
                     "data_components": [
                         {

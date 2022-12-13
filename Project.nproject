@@ -13,7 +13,7 @@
     "library_directory": "lib",
     "thumbnail_guid": "d2cce4e4-eea8-ae58-0b30-a2577cb4db81",
     "default_scene": "485e83df-8fa2-4c0d-83cc-24fce3291ed2",
-    "source": "Shader_Library.nproject",
+    "source": "Project.nproject",
     "settings": {
         "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
             "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",

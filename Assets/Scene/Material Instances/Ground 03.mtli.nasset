@@ -1,0 +1,23 @@
+{
+    "guid": "a87369b2-cd8a-b714-0950-436424b53bd1",
+    "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+    "material": "ade8b81e-1edf-443a-8af7-37473edf1390",
+    "descriptor_contents": [
+        {
+            "texture": "40dab151-47ec-8461-9526-42aa0b50d3f6",
+            "address_mode": 0
+        },
+        {
+            "texture": "e32c09e4-40a4-b0e1-12d9-a23fdbb13612",
+            "address_mode": 0
+        },
+        {
+            "texture": "c5c4af2c-98ea-c390-53b2-1df40d7364e9",
+            "address_mode": 0
+        },
+        {
+            "texture": "b4a75a16-9a2d-1058-94be-3e327a575af1",
+            "address_mode": 0
+        }
+    ]
+}

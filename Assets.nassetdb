@@ -1289,6 +1289,7 @@
     "70118075-9d0b-4035-be30-9f37bb49ae8c": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
+        "name": "Shader Library",
         "thumbnail": "d2cce4e4-eea8-ae58-0b30-a2577cb4db81"
     },
     "709f4f02-b0e6-8b33-7801-af25c0e62b04": {
@@ -2303,6 +2304,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "c3e3d76e-f54f-5fb3-e691-b92837e73223": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
     "c4d12f83-56e3-7726-3771-5aa5189914aa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3080,5 +3085,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    }
+    },
+    "guid": "c3e3d76e-f54f-5fb3-e691-b92837e73223"
 }

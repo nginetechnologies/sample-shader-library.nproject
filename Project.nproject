@@ -1,6 +1,7 @@
 {
     "name": "Shader Library",
     "guid": "70118075-9d0b-4035-be30-9f37bb49ae8c",
+    "database_guid": "c3e3d76e-f54f-5fb3-e691-b92837e73223",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
